@@ -1,5 +1,5 @@
-# Genius Hour / Google 20% Time Project
-Location to log genius hour work and learning.  This readme should be updated as a log file for the project, and any data files (if necessary) should be found within the repo.  
+# 20 Time Project
+Location to log 20Time work and learning.  This readme should be updated as a log file for the project, and any data files (if necessary) should be found within the repo.  
 
 ##Topic
 * To be determined
